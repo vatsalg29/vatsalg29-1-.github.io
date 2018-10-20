@@ -11,6 +11,6 @@
   
 - name: Safety Device for Fishing Vessels
   descr: Designed a cost-effective system to alert fishing trawlers and other miniature vessels about approaching ships so that they can safely manoeuvre away from them. Worked with nRF sensors, AIS signals, Uni-directional Antennas and Distress Systems. 
-  github: https://github.com/RCIITG/ARLE
+  github: https://github.com/vatsalg29/Device-for-ship-detection
   auth: Inter-IIT Tech Meet, 2018 (4 member team)
   period: Oct 2017 - Jan 2018
