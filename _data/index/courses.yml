@@ -1,0 +1,15 @@
+- name: Machine Learning and Deep Learning
+  list: [Machine Learning by Andrew Ng,Neural Networks and Deep Learning,Hyperparameter tuning and optimization,Structuring Machine Learning Projects,Convolutional Neural Networks,Sequence Models]
+
+- name: Computer Science
+  list: [Data Structures and Algorithms,Game Theory,Introduction to Computer Architecture,Graph and Automata theory]
+
+- name: Electrical and Electronics
+  list: [Probability and Random Processes,"Signal, Systems and Networks",Analog circuit design,Digital Systems and Microprocessors,Principles of Communication]
+  
+- name: Mathematics
+  list: [Linear Algebra,Advanced Calculus,Ordinary and Partial Differential Equations]
+  
+- name: Computer Vision and Robotics
+  list: [Introduction to Computer Vision,A.I. for Robotics]
+  
