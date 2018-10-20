@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: IITG.ai
+  link: https://www.linkedin.com/company/iitg-ai/
+  date: August 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Mentor
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: Techniche
+  link: http://techniche.org/
+  date: Oct 2017 - Sept 2018
+  job: Team Head, Industrial Conclave and Exhibitions
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: Techniche
+  link: http://techniche.org/
+  date: Oct 2016 - Sept 2017
+  job: Organizer, Industrial Conclave and Exhibitions
