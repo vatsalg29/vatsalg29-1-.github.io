@@ -1,6 +1,8 @@
-# skills section data
+- name: Programming
+  list: [Python,Java,C,C++]
 
-label: Ability
-id : cs
-aspects: Motivation, GitHub, Java, HTML/CSS, Docker, Python
-percentage: 100, 65, 70, 60, 60, 55
+- name: Operating Systems
+  list: [Windows, Linux(elementary proficiency)]
+
+- name: Libraries and Frameworks
+  list: [Numpy, Tensorflow, Keras]
